@@ -1,47 +1,16 @@
-# Windows image file caches
-Thumbs.db
-ehthumbs.db
 
-# Folder config file
-Desktop.ini
-
-# Recycle Bin used on file shares
-$RECYCLE.BIN/
-
-# Windows Installer files
-*.cab
-*.msi
-*.msm
-*.msp
-
-# Windows shortcuts
-*.lnk
-
-# =========================
-# Operating System Files
-# =========================
-
-# OSX
-# =========================
-
-.DS_Store
-.AppleDouble
-.LSOverride
-
-# Thumbnails
-._*
-
-# Files that might appear in the root of a volume
-.DocumentRevisions-V100
-.fseventsd
-.Spotlight-V100
-.TemporaryItems
-.Trashes
-.VolumeIcon.icns
-
-# Directories potentially created on remote AFP share
-.AppleDB
-.AppleDesktop
-Network Trash Folder
-Temporary Items
-.apdisk
+Magic8Ball/resources/*
+Magic8Ball/node_modules/*
+Magic8Ball/www/*
+Magic8Ball/hooks/*
+Magic8Ball/.editorconfig
+Magic8Ball/config.xml
+Magic8Ball/ionic.config.json
+Magic8Ball/package.json
+Magic8Ball/README.md
+Magic8Ball/src/assets/icon/favicon.ico
+Magic8Ball/src/declarations.d.ts
+Magic8Ball/src/manifest.json
+Magic8Ball/src/service-worker.js
+Magic8Ball/tsconfig.json
+Magic8Ball/tslint.json
