@@ -1,16 +1,1 @@
-
-Magic8Ball/resources/*
 Magic8Ball/node_modules/*
-Magic8Ball/www/*
-Magic8Ball/hooks/*
-Magic8Ball/.editorconfig
-Magic8Ball/config.xml
-Magic8Ball/ionic.config.json
-Magic8Ball/package.json
-Magic8Ball/README.md
-Magic8Ball/src/assets/icon/favicon.ico
-Magic8Ball/src/declarations.d.ts
-Magic8Ball/src/manifest.json
-Magic8Ball/src/service-worker.js
-Magic8Ball/tsconfig.json
-Magic8Ball/tslint.json
